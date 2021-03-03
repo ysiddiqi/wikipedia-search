@@ -1,0 +1,37 @@
+h1 {
+  font-size: 48px;
+  text-shadow: 8px 8px 8px;
+}
+
+h2 {
+  font-size: 45px;
+}
+
+.search_box {
+  width: 250px;
+  height: 40px;
+  border-color: lightblue;
+  background-color: lightgray;
+  border-radius: 5px;
+  font-size: 20px;
+  
+}
+
+#search {
+  
+  border: 2 px solid lightblue;
+  background-color: lightgray;
+  border-radius: 5px;
+  font-size: 20px;
+}
+
+#output {
+  margin-left: 30%;
+  font-size: 20px;
+  font-style: oblique;
+  background-color: lightgrey;
+  max-width: auto;
+  
+  padding: 25px;
+ 
+}
