@@ -26,12 +26,18 @@ h2 {
 }
 
 #output {
-  margin-left: 30%;
+  margin-top: 20px;
+  margin-left: 20%;
+  margin-right: 20%;
   font-size: 20px;
   font-style: oblique;
   background-color: lightgrey;
   max-width: auto;
-  
   padding: 25px;
+  height: 500px;
+
  
+}
+#output .heading-output{
+  margin-left:30%;
 }
